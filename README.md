@@ -81,9 +81,12 @@ Use current assigned addresses and credentials; values from past practice may di
 
 ## Full guides
 
+- [Wireshark: four practice questions, step by step](wireless/packettracer.md)
+
 - [Practical competency guide and troubleshooting](wireless/ICT369_Practical_Competency_GitHub_Guide.md)
 - [Official lab links and additional practice notes](wireless/ICT369_Practical_Skills_Official_Lab_Links_and_Notes.md)
 - [Interactive lab companion](https://ict369-lab-companion-ranji.bonnycove128.chatgpt.site/)
 - [Final practice checklist](wireless/ICT369_Practical_Competency_GitHub_Guide.md#final-practice-checklist)
 
 **Navigation tip:** Use the tables above to jump to a section, then your browser's Back button to return. Within a guide, press **Ctrl+F** to find an exact error message or term.
+
